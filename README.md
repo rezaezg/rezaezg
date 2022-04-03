@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rezaezg
 - 👀 I’m interested in Data
-- 🌱 I’m currently learning Data tools
+- 🌱 I’m currently working Data tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
